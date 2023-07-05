@@ -1,83 +1,138 @@
-# Horiseon_Optimization_Into_The_Future
-<!DOCTYPE html>
-<html lang="en-us">
+Horiseon Optimization Into The Future!!!
 
-<head>
-    <meta charset="UTF-8" />
-    <link rel="stylesheet" href="./assets/css/style.css">
-    <title>https://github.com/jimbuckley412/Horiseon_Optimization_Into_The_Future.git</title>
-</head>
+<DESCRIPTION:>
+In this README.md you will see:
+-I follow the Scout Rule—always leave the code a little cleaner than when you found it.
+-I make this website more web accessible.
+-I will optimize the site for search engines.
+-I will create a Github repository
+    -https://github.com/jimbuckley412/Horiseon_Optimization_Into_The_Future
+        -I will clone and use commands to save and push my code to the GitHub repository.
+-I will use the repository to create a website to check and work on.
+    -http://jimnbuckley412.github.io/Horiseon_Optimization_Into_The_Future
+-I wanted to impliment these changes to this website because Web accessibility is very important to get the most amount of people able to view the site.
+-I cleaned up the code.
+-Distinguished classes and Ids
+-Formulated a head, body, footer to the site
+-Further added sections to the body to create concise organized structure to the index.html.
+-Checked the styles.css sheet for desceptancies.
 
-<body>
-    <div class="header">
-        <h1>Hori<span class="seo">seo</span>n</h1>
-        <div>
-            <ul>
-                <li>
-                    <a href="#search-engine-optimization">Search Engine Optimization</a>
-                </li>
-                <li>
-                    <a href="#online-reputation-management">Online Reputation Management</a>
-                </li>
-                <li>
-                    <a href="#social-media-marketing">Social Media Marketing</a>
-                </li>
-            </ul>
-        </div>
-    </div>
-    <div class="hero"></div>
-    <div class="content">
-        <div class="search-engine-optimization">
-            <img src="./assets/images/search-engine-optimization.jpg" class="float-left" />
-            <h2>Search Engine Optimization</h2>
-            <p>
-                The dominance of mobile internet use means that users are searching for the right business as they travel, shop, or sit on their couch at home. Search Engine Optimization (SEO) allows you to increase your visibility and find the right customers for your business.
-            </p>
-        </div>
-        <div id="online-reputation-management" class="online-reputation-management">
-            <img src="./assets/images/online-reputation-management.jpg" class="float-right" />
-            <h2>Online Reputation Management</h2>
-            <p>
-                The web is full of opinions, and some of these can be negative. Social media allows anyone with an internet connection to say whatever they want about your business. Online Reputation Management gives you the control over what potential customers see when they search for your business.
-            </p>
-        </div>
-        <div id="social-media-marketing" class="social-media-marketing">
-            <img src="./assets/images/social-media-marketing.jpg" class="float-left" />
-            <h2>Social Media Marketing</h2>
-            <p>
-                Social media continues to have a sizable influence on buying habits. Social media marketing helps you determine which platforms are suited to your brand, using analytics to find the right markets and increase your lead generation.
-            </p>
-        </div>
-    </div>
-    <div class="benefits">
-        <div class="benefit-lead">
-            <h3>Lead Generation</h3>
-            <img src="./assets/images/lead-generation.png" />
-            <p>
-                Inbound strategies for lead generation require less work for your business, bringing customers directly to your website.
-            </p>
-        </div>
-        <div class="benefit-brand">
-            <h3>Brand Awareness</h3>
-            <img src="./assets/images/brand-awareness.png" />
-            <p>
-                Users find your business through paid and organic searches, increasing the search ranking and visibility for your business.
-            </p>
-        </div>
-        <div class="benefit-cost">
-            <h3>Cost Management</h3>
-            <img src="./assets/images/cost-management.png" />
-            <p>
-                As the search ranking for your business increases, your advertising costs decrease, and you no longer need to advertise your page.
-            </p>
-        </div>
-    </div>
-    <div class="footer">
-        <h2>Made with ❤️️ by Horiseon</h2>
-        <p>
-            &copy; 2019 Horiseon Social Solution Services, Inc.
-        </p>
-    </div>
-</body>
+<TABLE OF CONTENTS:>
+Title (#1)
+Description (#3)
+Installation (#28)
+Usage (#46)
+Credits (52)
+License (68)
+Badges (71)
+Features (74)
+How to contribute (#)
+Tests (#)
 
-</html>
+<INSTALLATION:>
+I first created a Repository in GitHub.
+I creatively named my Repository Horiseon_Optimization_Into_The_Future.
+I did not create a README.md.
+I then cloned the Repository onto my computer by going into the gitbash.
+I imput git clone Horiseon_Optimization_Into_The_Future
+I then went to the source code and copied the source code to the repository.
+git status
+git add .
+This got me the source code and the repository on my computer.
+I edited the code to make it more concise and organized.
+Added Screenshots to the repository
+See notes in index.html for further notes on changes to actual html code.
+Checked the Style.css sheet for errors and renamed some ids and classes.
+
+<USAGE:>
+![Alt text](image.png)
+basic page no edits
+
+
+<CREDITS:>
+<a href="https://www.freepik.com/free-vector/vector-black-white-retro-stamps-badges-isolated_10704966.htm#query=website%20badge&position=1&from_view=keyword&track=ais">Image by macrovector</a> on Freepik
+
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+
+https://ca.indeed.com/career-advice/career-development/what-is-web-testing
+
+This Code of Conduct is adapted from the Contributor Covenant, version 2.1, available at https://www.contributor-covenant.org/version/2/1/code_of_conduct.html.
+
+Community Impact Guidelines were inspired by Mozilla’s code of conduct enforcement ladder.
+
+For answers to common questions about this code of conduct, see the FAQ at https://www.contributor-covenant.org/faq. Translations are available at https://www.contributor-covenant.org/translations.
+
+RUT-VIRT-FSF-PT-06-2023-U-LOLC
+
+
+<LICENSE:>
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+
+<BADGES:>
+<a href="https://www.freepik.com/free-vector/vector-black-white-retro-stamps-badges-isolated_10704966.htm#query=website%20badge&position=1&from_view=keyword&track=ais">Image by macrovector</a> on Freepik
+
+<FEATURES:>
+
+<HOW TO CONTRIBUTE:>
+CONTRIBUTOR COVENANT CODE OF CONDUCT
+Our Pledge
+We as members, contributors, and leaders pledge to make participation in our community a harassment-free experience for everyone, regardless of age, body size, visible or invisible disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, caste, color, religion, or sexual identity and orientation.
+
+We pledge to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community.
+
+Our Standards
+Examples of behavior that contributes to a positive environment for our community include:
+
+Demonstrating empathy and kindness toward other people
+Being respectful of differing opinions, viewpoints, and experiences
+Giving and gracefully accepting constructive feedback
+Accepting responsibility and apologizing to those affected by our mistakes, and learning from the experience
+Focusing on what is best not just for us as individuals, but for the overall community
+Examples of unacceptable behavior include:
+
+The use of sexualized language or imagery, and sexual attention or advances of any kind
+Trolling, insulting or derogatory comments, and personal or political attacks
+Public or private harassment
+Publishing others’ private information, such as a physical or email address, without their explicit permission
+Other conduct which could reasonably be considered inappropriate in a professional setting
+Enforcement Responsibilities
+Community leaders are responsible for clarifying and enforcing our standards of acceptable behavior and will take appropriate and fair corrective action in response to any behavior that they deem inappropriate, threatening, offensive, or harmful.
+
+Community leaders have the right and responsibility to remove, edit, or reject comments, commits, code, wiki edits, issues, and other contributions that are not aligned to this Code of Conduct, and will communicate reasons for moderation decisions when appropriate.
+
+Scope
+This Code of Conduct applies within all community spaces, and also applies when an individual is officially representing the community in public spaces. Examples of representing our community include using an official e-mail address, posting via an official social media account, or acting as an appointed representative at an online or offline event.
+
+Enforcement
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the community leaders responsible for enforcement at [INSERT CONTACT METHOD]. All complaints will be reviewed and investigated promptly and fairly.
+
+All community leaders are obligated to respect the privacy and security of the reporter of any incident.
+
+Enforcement Guidelines
+Community leaders will follow these Community Impact Guidelines in determining the consequences for any action they deem in violation of this Code of Conduct:
+
+1. Correction
+Community Impact: Use of inappropriate language or other behavior deemed unprofessional or unwelcome in the community.
+
+Consequence: A private, written warning from community leaders, providing clarity around the nature of the violation and an explanation of why the behavior was inappropriate. A public apology may be requested.
+
+2. Warning
+Community Impact: A violation through a single incident or series of actions.
+
+Consequence: A warning with consequences for continued behavior. No interaction with the people involved, including unsolicited interaction with those enforcing the Code of Conduct, for a specified period of time. This includes avoiding interactions in community spaces as well as external channels like social media. Violating these terms may lead to a temporary or permanent ban.
+
+3. Temporary Ban
+Community Impact: A serious violation of community standards, including sustained inappropriate behavior.
+
+Consequence: A temporary ban from any sort of interaction or public communication with the community for a specified period of time. No public or private interaction with the people involved, including unsolicited interaction with those enforcing the Code of Conduct, is allowed during this period. Violating these terms may lead to a permanent ban.
+
+4. Permanent Ban
+Community Impact: Demonstrating a pattern of violation of community standards, including sustained inappropriate behavior, harassment of an individual, or aggression toward or disparagement of classes of individuals.
+
+Consequence: A permanent ban from any sort of public interaction within the community.
+
+TESTS:
+User acceptance testing to make sure that the user is able to work the website after deployment.
+API testing we can make sure that the security, reliability, and hteh efficency of the website works correctly.
+Sanity test to make sure that the fix in the code does nto interfere with the fundamental objective of the website.
+
