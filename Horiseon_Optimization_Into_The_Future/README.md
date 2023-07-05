@@ -2,49 +2,85 @@ Horiseon Optimization Into The Future!!!
 
 <DESCRIPTION:>
 In this README.md you will see:
+
 -I follow the Scout Rule—always leave the code a little cleaner than when you found it.
+
 -I make this website more web accessible.
+
 -I will optimize the site for search engines.
+
 -I will create a Github repository
     -https://github.com/jimbuckley412/Horiseon_Optimization_Into_The_Future
         -I will clone and use commands to save and push my code to the GitHub repository.
+
 -I will use the repository to create a website to check and work on.
     -http://jimnbuckley412.github.io/Horiseon_Optimization_Into_The_Future
+
 -I wanted to impliment these changes to this website because Web accessibility is very important to get the most amount of people able to view the site.
+
 -I cleaned up the code.
+
 -Distinguished classes and Ids
+
 -Formulated a head, body, footer to the site
+
 -Further added sections to the body to create concise organized structure to the index.html.
+
 -Checked the styles.css sheet for desceptancies.
+
+
 
 <TABLE OF CONTENTS:>
 Title (#1)
+
 Description (#3)
+
 Installation (#28)
+
 Usage (#46)
+
 Credits (52)
+
 License (68)
+
 Badges (71)
+
 Features (74)
+
 How to contribute (#)
+
 Tests (#)
 
 <INSTALLATION:>
 I first created a Repository in GitHub.
+
 I creatively named my Repository Horiseon_Optimization_Into_The_Future.
+
 I did not create a README.md.
+
 I then cloned the Repository onto my computer by going into the gitbash.
+
 I imput git clone Horiseon_Optimization_Into_The_Future
+
 I then went to the source code and copied the source code to the repository.
+
 git status
+
 git add .
+
 This got me the source code and the repository on my computer.
+
 I edited the code to make it more concise and organized.
+
 Added Screenshots to the repository
+
 See notes in index.html for further notes on changes to actual html code.
+
 Checked the Style.css sheet for errors and renamed some ids and classes.
 
+
 <USAGE:>
+
 ![Alt text](image.png)
 basic page no edits
 
@@ -52,20 +88,27 @@ basic page no edits
 <CREDITS:>
 <a href="https://www.freepik.com/free-vector/vector-black-white-retro-stamps-badges-isolated_10704966.htm#query=website%20badge&position=1&from_view=keyword&track=ais">Image by macrovector</a> on Freepik
 
+
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+
 
 https://ca.indeed.com/career-advice/career-development/what-is-web-testing
 
+
 This Code of Conduct is adapted from the Contributor Covenant, version 2.1, available at https://www.contributor-covenant.org/version/2/1/code_of_conduct.html.
+
 
 Community Impact Guidelines were inspired by Mozilla’s code of conduct enforcement ladder.
 
+
 For answers to common questions about this code of conduct, see the FAQ at https://www.contributor-covenant.org/faq. Translations are available at https://www.contributor-covenant.org/translations.
+
 
 RUT-VIRT-FSF-PT-06-2023-U-LOLC
 
 
 <LICENSE:>
+
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 
 <BADGES:>
