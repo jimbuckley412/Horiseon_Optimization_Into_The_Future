@@ -31,7 +31,7 @@ How to contribute (77) <a href="C9"><jump to Chapter 9></a>
 Tests (135) <a href="C10"><jump to Chapter 10></a>
 
 <INSTALLATION:> <h3 id="C3">Chapter 3</h3>
-I first created a Repository in GitHub.
+I first created a Repositorygit in GitHub.
 I creatively named my Repository Horiseon_Optimization_Into_The_Future.
 I did not create a README.md.
 I then cloned the Repository onto my computer by going into the gitbash.
